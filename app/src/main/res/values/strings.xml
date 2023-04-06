@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteSQLite-Biniyam</string>
+    <string name="title_note">Title Note</string>
+    <string name="detail_note">Detail note</string>
+    <string name="save">Save</string>
+    <string name="add_notes">Add Notes</string>
+</resources>
